@@ -27,6 +27,19 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %} -->
 
+I am gonna follow a **pattern** in all of my coming posts which is simply gonna be something like this,
+
+```
+  Reference Links - Link1, Link2, Link3
+
+  Content
+
+  Images 
+```
+
+I am gonna attach the links that I referred to first so that you guys would go through the links attached and then read my perspective on them. Not a great thought but ***whatever*** 🥱
+
+
 I guess some of you **nerds** must have figured it out but the "tech" I used to set up my roughbook quickly were **Github Pages** and **Jekyll**, they are awesome!
 
 [Jekyll Github][jekyll-gh]
