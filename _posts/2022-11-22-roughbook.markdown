@@ -12,7 +12,7 @@ A very subtle disclaimer that these are not ***professional articles*** on conce
 I might probably make more updates in the future to the theme and the style of this website but right now I am good. 
 
 Some deets about me, 
-  1. Working as a ***Data Scientist*** at [Datacy Inc.][datacy]
+  1. Working as a **Data Scientist** at [Datacy Inc.][datacy]
   2. Big time computer nerd ( ***still learning*** )
   3. I dance 🕺 wanna shake a leg with me? find me here -> [Instagram][insta]
 
@@ -27,7 +27,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %} -->
 
-I guess some of you ***nerds*** must have figured it out but the "tech" I used to set up my roughbook quickly were ***Github Pages*** and ***Jekyll***, they are awesome!
+I guess some of you **nerds** must have figured it out but the "tech" I used to set up my roughbook quickly were **Github Pages** and **Jekyll**, they are awesome!
 
 [Jekyll Github][jekyll-gh]
 
