@@ -115,15 +115,15 @@ I wanted to also include resources about the install of CUDA, PyTorch and some m
 Feel free to contact me if you think the contents incorrect at any place.
 
 
-[ubuntu-setup]: [https://ubuntu.com/tutorials/install-ubuntu-desktop]
-[iso-burning-tool]: [https://www.balena.io/etcher/]
-[app-image-use]: [https://itsfoss.com/use-appimage-linux/]
-[setup-nvidia-drivers]: [https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux]
-[snap]: [https://snapcraft.io/]
-[pyenv]: [https://github.com/pyenv/pyenv#automatic-installer]
-[edit-hosts]: [https://florahuo.medium.com/edit-etc-hosts-file-in-ubuntu-command-line-using-nano-ide-44c3a78e23ca]
-[pyenv-installation]: [https://brain2life.hashnode.dev/how-to-install-pyenv-python-version-manager-on-ubuntu-2004]
-[pyenv-install-python]: [https://github.com/pyenv/pyenv#prefix-auto-resolution]
-[miniconda-install]: [https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html]
-[conda-cheatsheet]: [https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf]
-[docker-install]: [https://docs.docker.com/engine/install/ubuntu/]
+[ubuntu-setup]: https://ubuntu.com/tutorials/install-ubuntu-desktop
+[iso-burning-tool]: https://www.balena.io/etcher/
+[app-image-use]: https://itsfoss.com/use-appimage-linux/
+[setup-nvidia-drivers]: https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
+[snap]: https://snapcraft.io/
+[pyenv]: https://github.com/pyenv/pyenv#automatic-installer
+[edit-hosts]: https://florahuo.medium.com/edit-etc-hosts-file-in-ubuntu-command-line-using-nano-ide-44c3a78e23ca
+[pyenv-installation]: https://brain2life.hashnode.dev/how-to-install-pyenv-python-version-manager-on-ubuntu-2004
+[pyenv-install-python]: https://github.com/pyenv/pyenv#prefix-auto-resolution
+[miniconda-install]: https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
+[conda-cheatsheet]: https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+[docker-install]: https://docs.docker.com/engine/install/ubuntu/

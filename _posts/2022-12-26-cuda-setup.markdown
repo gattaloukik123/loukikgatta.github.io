@@ -5,7 +5,7 @@ date:   2023-01-06 20:16:40 +0530
 categories: jekyll update
 ---
 
-## Reference Links
+<!-- ## Reference Links
 1.
 
 ## Our dear friend REST
@@ -15,9 +15,9 @@ categories: jekyll update
 > Wait for your turn mister!
 
 ## Conclusion
-> Yes, there is a part 2
+> Yes, there is a part 2 -->
 
 
-Feel free to contact me if you think the contents incorrect at any place.
+Work in progress!
 
 
