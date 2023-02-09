@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "But what the hell is Vectorization?"
-date:   2023-01-06 20:16:40 +0530
+date:   2023-02-09 20:16:40 +0530
 categories: jekyll update
 ---
 
